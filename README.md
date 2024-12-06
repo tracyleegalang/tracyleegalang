@@ -215,4 +215,4 @@ The effective design of the ETL pipeline ensured that unnecessary data was exclu
 # Conclusion
 
 This project demonstrates the power of AWS tools in building an efficient Data Analytics Platform to process and analyze complex datasets. By systematically addressing data ingestion, profiling, cleaning, and transformation, the project achieved its objectives of deriving actionable insights from Vancouver's Public Art – Artists dataset. The analysis highlights the dominance of Canadian artists in the dataset while showcasing the platform's scalability for similar data-driven projects. This methodology can serve as a blueprint for future analytics initiatives, emphasizing the value of integrating technology and structured processes for impactful data exploration.
-![image](https://github.com/user-attachments/assets/bcb61137-3ede-4854-b900-dcfd1828dfe3)
+
